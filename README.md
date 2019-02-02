@@ -4,4 +4,4 @@ Android Game Sprites
 * fireball will explode after it hits the wall
 
 
-![image](https://drive.google.com/open?id=1ieEnynrfTklGhrFoOxelBwulXh_4QXMT)
+![image](https://drive.google.com/file/d/1ieEnynrfTklGhrFoOxelBwulXh_4QXMT/view)
